@@ -1,0 +1,5 @@
+print("My name is Arvind")
+print("I am learning Python")
+print("This is Day 1")
+print("I am excited to learn more!")
+print("Let's code together!")
